@@ -12,8 +12,9 @@ name ="your name"
 # Let's write that algorithm in Python code:
 num1 = 5 #integer
 num2 = 7 #integer
+
 sum_result = num1 + num2
-print("The sum is:", sum_result)
+print("The sum is:", sum_result) 
 
 
 # # ----------------------------------------
@@ -29,17 +30,17 @@ print("The sum is:", sum_result)
 name = "John"
 print("Name:", name)
 
-# # 2. Numbers: Numeric data (integers or floats)
-# age = 23
-# print("Age:", age)
+#  2. Numbers: Numeric data (integers or floats)
+age = 23
+ print("Age:", age)
 
 # # 3. Booleans: True or False values
-# hungry = False
-# print("Hungry:", hungry)
+ hungry = False
+ print("Hungry:", hungry)
 
 
 # # Example combining them all:
-# print(f"{name} is {age} years old. Hungry? {hungry}")
+print(f"{name} is {age} years old. Hungry? {hungry}")
 
 
 # # ----------------------------------------
