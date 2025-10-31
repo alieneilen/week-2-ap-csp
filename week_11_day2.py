@@ -32,8 +32,8 @@ print("Multiplication:", mul_result)
 
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
-colo = input("What is you favorite color?")
-print (f{color}"is a nice color!")
+color= input("What is you favorite color?")
+print (f"{color}is a nice color!")
 
 
 # ⚙️ Step 5: Final Challenge (combine it all)
